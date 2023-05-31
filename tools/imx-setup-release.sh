@@ -199,9 +199,6 @@ if [ -d ../sources/meta-freescale ]; then
     sed -e "s,\$.BSPDIR./sources/meta-fsl-arm-extra\s,,g" -i conf/bblayers.conf
 fi
 
-# Support WPI BSP
-echo "BBLAYERS += \"\${BSPDIR}/sources/meta-wpi\"" >> conf/bblayers.conf
-
 cd  $BUILD_DIR
 clean_up
 unset FSLDISTRO
