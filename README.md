@@ -1,11 +1,5 @@
 <h1>WPI i.MX Linux Yocto Project BSP 5.15.71_2.2.0 Release for Desktop</h1>
 
----
-
-###### tags: `I/O` `MPU Model` `Author` `Status` 
-
----
-
 此資源庫是基於 [NXP i.MX Linux BSP Software \[meta-nxp-desktop\]](https://github.com/nxp-imx/meta-nxp-desktop) 建立而成，用於提供 WPI 客製化的 Yocto Layer。
 
 下方列表為 WPI 此次版本，已測試過的開發板。
