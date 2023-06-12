@@ -4,7 +4,7 @@
 
 下方列表為 WPI 此次版本，已測試過的開發板。
 
-* WPI OP-Killer (opkiller)
+* [WPI OP-Killer](https://www.wpgdadatong.com/tw/solution/detail/36783) (opkiller)
 
 ## Quick Start Guide
 
@@ -39,3 +39,11 @@ $ [MACHINE=<machine>] DISTRO=imx-desktop-xwayland source ./imx-setup-desktop.sh 
 $ DISTRO=imx-desktop-xwayland MACHINE=imx8mpevk source imx-setup-desktop.sh -b build-desktop
 $ bitbake imx-image-desktop
 ```
+
+## ATU Support
+
+* [NXP i.MX8 大大通技術索引](https://hackmd.io/@WPI-ATU-TW1/Bk3zvW0Ts/https%3A%2F%2Fhackmd.io%2FXC9STgFjSs6_vadDkO0YSA%3Fboth?utm_source=preview-mode&utm_medium=rec)
+
+<img src="https://hackmd.io/_uploads/Hy773SVvn.png"  width="200" height="200">
+
+如果你有任何需求，請聯絡 WPI 的 [TW ATU](mailto:wpi.atu.github@wpi-group.com) 團隊
